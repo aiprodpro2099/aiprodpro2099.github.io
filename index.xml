@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Mini Wiki</title>
-    <link>https://mini-wiki.com/</link>
+    <link>https://www.mini-wiki.com/</link>
     <description>Recent content in Home on Mini Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Dec 2023 21:34:17 +0900</lastBuildDate><atom:link href="https://mini-wiki.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Dec 2023 21:34:17 +0900</lastBuildDate><atom:link href="https://www.mini-wiki.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Send me a messagge</title>
-      <link>https://mini-wiki.com/contact/</link>
+      <link>https://www.mini-wiki.com/contact/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mini-wiki.com/contact/</guid>
+      <guid>https://www.mini-wiki.com/contact/</guid>
       <description> Your email* Message 
 Send message    #contact-form { margin-top: 1rem; } #contact-form input, #contact-form textarea { width: 30rem; max-width: 100%; } </description>
     </item>
     
     <item>
       <title>First Article</title>
-      <link>https://mini-wiki.com/wikis/first-article/</link>
+      <link>https://www.mini-wiki.com/wikis/first-article/</link>
       <pubDate>Sun, 24 Dec 2023 21:34:17 +0900</pubDate>
       
-      <guid>https://mini-wiki.com/wikis/first-article/</guid>
+      <guid>https://www.mini-wiki.com/wikis/first-article/</guid>
       <description>Title Section1 awspiojfsfdjfd
 sdofiufsdojffsdsfsdffsd
 Section2 sdfsdfsdfsaa
@@ -30,19 +30,19 @@ bbbbbbbbbbbbbbbbbbbb</description>
     
     <item>
       <title>About me</title>
-      <link>https://mini-wiki.com/about/</link>
+      <link>https://www.mini-wiki.com/about/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mini-wiki.com/about/</guid>
+      <guid>https://www.mini-wiki.com/about/</guid>
       <description>#my-photo { width: 16rem; margin:0; padding: 0; margin: 1rem 1rem 0.5rem 0; border-radius: 50%; clear: both; } @media screen and (min-width: 400px) { #my-photo { float: right; } }  Hello! I&#39;m Kevin - As a technical writer deeply immersed in the rapidly evolving world of technology, my passion lies at the intersection of artificial intelligence, programming, and other cutting-edge tech topics. With a keen eye for detail and a relentless curiosity, I delve into the complexities of AI, unraveling its intricacies to make them accessible and engaging for a wider audience.</description>
     </item>
     
     <item>
       <title>How to Take Macro Photos With IPhone 13</title>
-      <link>https://mini-wiki.com/posts/2022-01-09-how-to-take-macro-photos-with-iphone-13/</link>
+      <link>https://www.mini-wiki.com/posts/2022-01-09-how-to-take-macro-photos-with-iphone-13/</link>
       <pubDate>Sun, 09 Jan 2022 22:50:02 +0900</pubDate>
       
-      <guid>https://mini-wiki.com/posts/2022-01-09-how-to-take-macro-photos-with-iphone-13/</guid>
+      <guid>https://www.mini-wiki.com/posts/2022-01-09-how-to-take-macro-photos-with-iphone-13/</guid>
       <description>What is Macro photography Macro photography is a kind of photography that focuses on minute details of a subject that is too close to it.
 iPhone 13
 How to take a macro photography  Go to Camera Then move as nearer to the image as possible—as near as Two cm in length Camera will be in focus instantaneously.  Conclusion </description>
@@ -50,29 +50,29 @@ How to take a macro photography  Go to Camera Then move as nearer to the image a
     
     <item>
       <title></title>
-      <link>https://mini-wiki.com/formeonly/</link>
+      <link>https://www.mini-wiki.com/formeonly/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mini-wiki.com/formeonly/</guid>
+      <guid>https://www.mini-wiki.com/formeonly/</guid>
       <description>This page is writing instruction for me only.
 Card  {{&amp;lt; card title=&#34;Bước 0 - Học lập trình cơ bản với Python&#34; icon=&#34;python.svg&#34;}} &amp;lt;p style=&#34;width: 100%&#34;Lập trình là điều đầu tiên bạn cần học để có thể bắt kịp việc thực hành về sau. Python hiện tại là một ngôn ngữ rất phổ biến trong ngành trí tuệ nhân tạo. Có rất nhiều các khoá học được dạy với Python. Do vậy tôi khuyến khích các bạn bắt đầu với ngôn ngữ này.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://mini-wiki.com/archives/</link>
+      <link>https://www.mini-wiki.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mini-wiki.com/archives/</guid>
+      <guid>https://www.mini-wiki.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Search Engine</title>
-      <link>https://mini-wiki.com/search/</link>
+      <link>https://www.mini-wiki.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mini-wiki.com/search/</guid>
+      <guid>https://www.mini-wiki.com/search/</guid>
       <description></description>
     </item>
     

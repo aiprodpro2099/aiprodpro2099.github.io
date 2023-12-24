@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis on Mini Wiki</title>
+    <link>https://mini-wiki.com/wikis/</link>
+    <description>Recent content in Wikis on Mini Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Dec 2023 21:34:17 +0900</lastBuildDate><atom:link href="https://mini-wiki.com/wikis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article</title>
+      <link>https://mini-wiki.com/wikis/first-article/</link>
+      <pubDate>Sun, 24 Dec 2023 21:34:17 +0900</pubDate>
+      
+      <guid>https://mini-wiki.com/wikis/first-article/</guid>
+      <description>Title Section1 awspiojfsfdjfd
+sdofiufsdojffsdsfsdffsd
+Section2 sdfsdfsdfsaa
+bbbbbbbbbbbbbbbbbbbb</description>
+    </item>
+    
+  </channel>
+</rss>
